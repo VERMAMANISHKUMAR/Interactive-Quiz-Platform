@@ -43,8 +43,6 @@ A React-based Quiz component that allows users to answer multiple-choice questio
        answer: "4",
      },
    ];
-
-   <Quiz questions={questions} />;
    ```
 
 ## Props
@@ -56,8 +54,6 @@ A React-based Quiz component that allows users to answer multiple-choice questio
 ## Styling
 - The component uses class names like `container`, `quiz-box`, `option-btn`, `start-btn`, and `scoreboard`.
 - Add your own CSS styles to customize the look and feel.
-
-
 
 ### Step 1: Create the Project Folder
 mkdir quiz-platform
@@ -105,5 +101,6 @@ npm install -g netlify-cli
 netlify deploy
 
 ## Author
-Developed by [Manish Kumar Verma](https://github.com/yourusername).
+GitHub link: https://github.com/VERMAMANISHKUMAR/Interactive-Quiz-Platform
+Developed by [Manish Kumar Verma](https:/interactive-quiz-platform-frontend.onrender.com/).
 
